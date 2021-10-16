@@ -29,8 +29,8 @@ assets:
         https://raw.githubusercontent.com/rahul-thakoor/air-pi-play/master/logo.png
 data:
   applicationEnvironmentVariables:
-    - AIRPIPLAY_NAME: ""
-    - AIRPIPLAY_AUDIO_OUT: hdmi
+    - AIRPIPLAY_NAME: "rpi"
+    - AIRPIPLAY_AUDIO_OUT: analog
     - AIRPIPLAY_BACKGROUND: auto
     - AIRPIPLAY_LATENCY_MODE: 1
     - AIRPIPLAY_ROTATION: ""
